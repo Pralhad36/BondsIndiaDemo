@@ -2,7 +2,7 @@ import React from 'react'
 
 const FeedbackSection = () => {
   return (
-    <div className=' flex flex-col md:px-14 px-4 text-left'>
+    <div className=' flex flex-col  text-black md:px-14 px-4 text-left'>
         <h2 className=' md:text-4xl text-lg font-bold py-2'>The Love from our Clients</h2>
         <h3 className=' md:text-lg text-sm '>What our users have to say</h3>
         <div className=' w-full flex justify-between mx-0 py-14 '>

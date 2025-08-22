@@ -32,7 +32,7 @@ const BackedBySection = () => {
 
     ]
   return (
-    <div className=' flex flex-col text-left md:px-14 px-4 md:pt-20 pt-10'>
+    <div className='  text-black flex flex-col text-left md:px-14 px-4 md:pt-20 pt-10'>
         <h2 className=' md:text-4xl text-lg font-bold'>Backed By</h2>
         <h3 className=' text-md pb-10'>Investers and Leaders in Finance and Technology</h3>
         <div className=' flex md:flex-nowrap flex-wrap '>

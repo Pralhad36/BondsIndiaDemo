@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <div className='w-screen flex flex-col  bg-[#E6D9F6]'>
+      <div className='w-screen flex flex-col text-black  bg-[#E6D9F6]'>
         <Header/>
         <HeroSection/>
         {/* <OfferSection/> */}

@@ -5,8 +5,8 @@ const Header = () => {
     const headerMenu = ["Products","Tools ","BoundUNI","KYC","Refer & Earn","More"]
   return (
     <>
-    <div className='bg-purple-600 md:block fixed z-10 top-0   w-screen text-white p-2 text-xs font-bold mx-auto'>DownloadBondsIndiaApp 100k + downloads</div>
-    <div className=' w-screen bg-[#E6D9F6] z-10  h-23 fixed top-8 flex flex-row md:px-10 px-4'>
+    <div className='bg-purple-600  md:block fixed z-10 top-0   w-screen text-white p-2 text-xs font-bold mx-auto'>DownloadBondsIndiaApp 100k + downloads</div>
+    <div className=' w-screen  text-black bg-[#E6D9F6] z-10  h-23 fixed top-8 flex flex-row md:px-10 px-4'>
         
         <div className='md:w-[20%] w-[40%] px-0 py-4 '>
             <img className='md:w-48 w-40' src='https://www.indiabonds.com/static/customer/home_page/images/india-bonds-logo.png'/>

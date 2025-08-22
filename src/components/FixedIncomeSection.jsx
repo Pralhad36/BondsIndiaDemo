@@ -2,7 +2,7 @@ import React from 'react'
 
 const FixedIncomeSection = () => {
   return (
-    <div className=' w-full flex text-left flex-col md:px-14 px-4 pt-10 '>
+    <div className=' w-full  text-black flex text-left flex-col md:px-14 px-4 pt-10 '>
         <h2 className=' md:text-4xl text-lg font-bold pt-4'>
             Fixed Income Investing Fuelled by Technology
         </h2>
