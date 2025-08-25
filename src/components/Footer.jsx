@@ -6,18 +6,18 @@ const Footer = () => {
         <div>
             <div className=' w-full '>
                 <div className=' flex justify-between items-center'>
-                    <img className='w-48' src='https://www.indiabonds.com/static/customer/home_page/images/india-bonds-logo.png'alt='image'/>
+                    <img className='w-48' src='https://www.bondsindia.com/_next/static/media/logo.ec6021df.svg'alt='image'/>
                 </div>
             </div>
             <h2 className=' text-2xl font bold text-left py-4'>About Us</h2>
             <p className=' text-left text-sm'>
-                IndiaBonds is a fintech company driven by technology with a passion to create a Bond investment platform that provides investors access to the Bond market in a low-cost, transparent and easy to use manner.
+                BondsIndia is a fintech company driven by technology with a passion to create a Bond investment platform that provides investors access to the Bond market in a low-cost, transparent and easy to use manner.
 
 We assist investors by providing them with opportunities to access a wide choice of bond investments in India that may provide consistent and good returns, thus helping them in generating predictable cash-flow and meeting their investment objectives. Our endeavor is to empower individual investors with education and information on the Bond Market so that every investor can make an informed decision.
 
 The underlying principle of our operation is synergizing automation and machine learning into the core of our business so we can act as a catalyst to the growth of bond Investments in India by passing on the power in the hands of investors by means of innovations. Our focus concentrates towards making investments in the bond market an easy and convenient experience for investors as well as becoming a one stop solution for anything pertaining to Bonds in India.
 
-IndiaBonds’ Core management team comes with over 100 years of collective experience enriched with both equity and Fixed Income Market specifically on Bond Investments. Their extensive experience and knowledge of the industry makes them veterans of Debt Markets. The team is built by a group of experts with proficiency in different domains that complements the organization’s growth strategy towards building a successful fintech organization for corporate bonds market in India.
+BondsIndia’ Core management team comes with over 100 years of collective experience enriched with both equity and Fixed Income Market specifically on Bond Investments. Their extensive experience and knowledge of the industry makes them veterans of Debt Markets. The team is built by a group of experts with proficiency in different domains that complements the organization’s growth strategy towards building a successful fintech organization for corporate bonds market in India.
             </p>
         </div>
         <div>

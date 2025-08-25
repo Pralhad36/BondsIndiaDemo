@@ -16,7 +16,7 @@ const HeroSection = () => {
     }
   ]
   return (
-    <div className=' w-full  text-black flex md:flex-row flex-col items-center mt-33 md:px-10 px-4'>
+    <div className=' w-full  text-black flex md:flex-row  flex-col items-center md:mt-33 mt-2 md:px-10 px-4'>
       <div className=' flex md:w-[55%] w-full flex-col items-start' >
         <div className=' bg-[#5EC134] md:left-10 left-4 absolute text-white md:py-1  p-1 '>
           <p className=' md:text-sm text-md px-4'>SEBI Registered Stockbroker (Debt Segment)</p>
